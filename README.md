@@ -1,6 +1,6 @@
 # YesNote
 
-<img align="right" src="https://user-images.githubusercontent.com/32364261/34113526-02213f24-e3de-11e7-9736-8485e2c8b013.png"> 
+<img align="right" src="https://user-images.githubusercontent.com/32364261/34113526-02213f24-e3de-11e7-9736-8485e2c8b013.png">
 
 ## Description
 
@@ -21,7 +21,7 @@ We finished YesNote on schedule and delivered a polished, fully functional appli
 
 ## UI / Features
 
-Our main goal when designing the UI was to reduce clutter and menu overhead. 
+Our main goal when designing the UI was to reduce clutter and menu overhead.
 
 It features 3 main interactions and popovers that allow the user to have exact control over each module.
 
@@ -31,11 +31,11 @@ It features 3 main interactions and popovers that allow the user to have exact c
 
 ![Pop-overs](https://user-images.githubusercontent.com/32364261/34111981-39490590-e3d9-11e7-9a0f-ea79aa2cee83.jpg)
 
-## Usage 
+## Usage
 
 YesNote is minimal, but *in all the right ways.*
 
-Our application provides all the information needed to have a structured practice session in the palm of your hand. 
+Our application provides all the information needed to have a structured practice session in the palm of your hand.
 
 
 <blockquote>
@@ -48,6 +48,7 @@ The summation of these features is a structured framework for jazz improvisation
 ## Credits
 
 **YesNote Team Members**
+- Alexander Castle
 - Jeff Tobin
 - Blair McClain
 - Tim Miller
@@ -57,5 +58,5 @@ The summation of these features is a structured framework for jazz improvisation
 **KSU Director of Jazz Improv**
 - Bobby Selvaggio
 
-**Capstone/Software Development** 
+**Capstone/Software Development**
 - Augustine Samba, Ph.D
